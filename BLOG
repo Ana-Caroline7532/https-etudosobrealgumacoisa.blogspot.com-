@@ -1,0 +1,8 @@
+meu-blog/
+├── index.html
+├── blog.html
+├── contato.html
+├── css/
+│   └── styles.css
+└── js/
+    └── script.js
